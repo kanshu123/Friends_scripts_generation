@@ -6,7 +6,7 @@ Train LSTM base on the transcripts of the first five seasons of Friends.
 
 Generate pseudo-transcripts
 
-# Example pseudo-transcript (better scripts generated with larger training set and more epochs
+### Example pseudo-transcript (better scripts generated with larger training set and more epochs
 joey: why?!
 
 joey:(shyly) i'm not gonna give a dinosaur more outfit to be the whole time.
